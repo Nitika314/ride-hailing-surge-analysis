@@ -1,0 +1,41 @@
+ride_id,pickup_location,drop_location,datetime,trip_distance_km,trip_duration_min,fare_amount,surge_multiplier,traffic_level,weather_condition
+1,City Center,Tech Park,2025-01-03 08:15,6.2,18,230,1.0,2,Clear
+2,Airport,City Center,2025-01-03 18:20,28.4,52,910,1.4,4,Rain
+3,Old Town,University,2025-01-04 09:10,4.1,15,160,1.0,1,Clear
+4,Tech Park,City Center,2025-01-04 20:45,5.5,22,260,1.6,5,Heavy Rain
+5,City Center,Mall,2025-01-05 12:30,3.2,10,120,1.0,2,Cloudy
+6,Suburb A,City Center,2025-01-05 19:20,14.8,36,520,1.3,4,Rain
+7,City Center,Old Town,2025-01-06 08:10,2.4,8,95,1.0,2,Clear
+8,University,City Center,2025-01-06 09:40,6.8,19,245,1.0,3,Cloudy
+9,Mall,City Center,2025-01-06 18:30,4.6,17,210,1.5,5,Rain
+10,City Center,Tech Park,2025-01-07 07:55,5.9,20,225,1.0,3,Fog
+11,Tech Park,Suburb A,2025-01-07 18:50,12.4,40,470,1.4,5,Rain
+12,City Center,University,2025-01-08 19:15,7.5,25,310,1.6,5,Heavy Rain
+13,Airport,Tech Park,2025-01-08 09:00,30.2,55,940,1.2,3,Clear
+14,Old Town,City Center,2025-01-09 17:40,3.7,14,150,1.3,4,Cloudy
+15,Suburb A,Mall,2025-01-09 08:30,10.5,28,360,1.0,2,Clear
+16,Mall,Old Town,2025-01-10 21:10,8.4,26,295,1.7,5,Rain
+17,University,Airport,2025-01-10 06:45,25.6,48,830,1.0,2,Clear
+18,City Center,Tech Park,2025-01-11 18:10,6.0,21,240,1.5,5,Rain
+19,Suburb A,City Center,2025-01-11 09:50,13.1,34,480,1.0,2,Clear
+20,City Center,Airport,2025-01-12 17:30,27.8,50,880,1.4,4,Rain
+21,Old Town,Mall,2025-01-12 19:25,5.7,18,220,1.6,5,Heavy Rain
+22,Mall,City Center,2025-01-13 12:40,3.5,12,130,1.0,2,Clear
+23,Tech Park,University,2025-01-13 09:05,7.2,23,265,1.0,3,Cloudy
+24,City Center,Tech Park,2025-01-14 18:45,6.1,21,235,1.5,4,Rain
+25,Airport,Old Town,2025-01-14 07:40,29.0,54,900,1.0,2,Clear
+26,University,Suburb A,2025-01-15 20:25,9.4,30,310,1.7,5,Rain
+27,Mall,Tech Park,2025-01-15 08:55,8.8,27,300,1.0,3,Clear
+28,City Center,Old Town,2025-01-16 18:55,2.6,9,100,1.4,5,Rain
+29,Old Town,City Center,2025-01-16 09:25,3.9,13,145,1.0,2,Cloudy
+30,Tech Park,Mall,2025-01-17 07:15,7.0,22,250,1.0,3,Fog
+31,City Center,University,2025-01-17 18:20,7.3,24,300,1.6,5,Rain
+32,Airport,City Center,2025-01-18 19:40,28.1,53,920,1.5,5,Heavy Rain
+33,Suburb A,Tech Park,2025-01-18 08:10,12.7,38,455,1.0,3,Clear
+34,City Center,Old Town,2025-01-19 20:30,2.8,10,105,1.7,5,Rain
+35,University,Mall,2025-01-19 09:35,6.5,20,230,1.0,2,Clear
+36,Mall,Tech Park,2025-01-20 18:15,8.9,29,305,1.5,5,Rain
+37,Tech Park,City Center,2025-01-20 07:25,5.6,19,220,1.0,3,Clear
+38,City Center,Airport,2025-01-21 18:50,28.3,52,905,1.6,5,Rain
+39,Suburb A,Old Town,2025-01-21 09:20,11.2,32,405,1.0,2,Cloudy
+40,Mall,City Center,2025-01-22 20:05,4.1,15,190,1.7,5,Heavy Rain
