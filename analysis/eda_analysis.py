@@ -8,7 +8,10 @@ from scipy.stats import ttest_ind
 # -----------------------------
 # LOAD DATA
 # -----------------------------
-df = pd.read_csv(r"E:\PROJects\files\ride_hailing_data.csv", parse_dates=["datetime"])
+df = pd.read_csv(
+    "../data/ride_hailing_data.csv",
+    parse_dates=["datetime"]
+)
 
 # -----------------------------
 # FEATURE ENGINEERING
