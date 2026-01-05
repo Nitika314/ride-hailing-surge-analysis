@@ -42,14 +42,14 @@ An interactive Streamlit dashboard was developed to:
 - Show correlation heatmaps for traffic and weather impact
 - Present statistical test results
 
----
+----
 
 ## Tech Stack
 - Python
 - Pandas, NumPy
 - SciPy
 - Matplotlib, Seaborn
-- Streamlit
+- Streamlit   
 
 ---
 
